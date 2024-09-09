@@ -1,0 +1,158 @@
+[04-Oct-2023 07:55:57 UTC] PHP Warning:  require_once(/home/ardz7661/public_html/financial.ardigitalprinting.com/public/../bootstrap/login.php): failed to open stream: No such file or directory in /home/ardz7661/public_html/financial.ardigitalprinting.com/public/index.php on line 36
+[04-Oct-2023 07:55:57 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ardz7661/public_html/financial.ardigitalprinting.com/public/../bootstrap/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ardz7661/public_html/financial.ardigitalprinting.com/public/index.php on line 36
+[04-Oct-2023 07:57:33 UTC] PHP Warning:  require_once(/home/ardz7661/public_html/financial.ardigitalprinting.com/public/../bootstrap/app/public/login.php): failed to open stream: No such file or directory in /home/ardz7661/public_html/financial.ardigitalprinting.com/public/index.php on line 36
+[04-Oct-2023 07:57:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ardz7661/public_html/financial.ardigitalprinting.com/public/../bootstrap/app/public/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ardz7661/public_html/financial.ardigitalprinting.com/public/index.php on line 36
+[04-Oct-2023 07:57:35 UTC] PHP Warning:  require_once(/home/ardz7661/public_html/financial.ardigitalprinting.com/public/../bootstrap/app/public/login.php): failed to open stream: No such file or directory in /home/ardz7661/public_html/financial.ardigitalprinting.com/public/index.php on line 36
+[04-Oct-2023 07:57:35 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ardz7661/public_html/financial.ardigitalprinting.com/public/../bootstrap/app/public/login.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ardz7661/public_html/financial.ardigitalprinting.com/public/index.php on line 36
+[08-Jun-2024 21:54:46 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php:40
+Stack trace:
+#0 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/composer/ClassLoader.php(444): include()
+#1 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/ardz7661/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/helpers.php(471): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(403): collect(Array)
+#5 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[08-Jun-2024 21:54:46 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php:40
+Stack trace:
+#0 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/composer/ClassLoader.php(444): include()
+#1 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/ardz7661/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/helpers.php(471): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(403): collect(Array)
+#5 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[08-Jun-2024 21:54:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php:40
+Stack trace:
+#0 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/composer/ClassLoader.php(444): include()
+#1 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/ardz7661/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/helpers.php(471): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(403): collect(Array)
+#5 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[08-Jun-2024 21:54:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php:40
+Stack trace:
+#0 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/composer/ClassLoader.php(444): include()
+#1 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/ardz7661/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/helpers.php(471): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(403): collect(Array)
+#5 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[08-Jun-2024 21:54:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php:40
+Stack trace:
+#0 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/composer/ClassLoader.php(444): include()
+#1 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/ardz7661/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/helpers.php(471): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(403): collect(Array)
+#5 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[08-Jun-2024 21:54:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php:40
+Stack trace:
+#0 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/composer/ClassLoader.php(444): include()
+#1 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/ardz7661/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/helpers.php(471): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(403): collect(Array)
+#5 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[08-Jun-2024 21:54:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php:40
+Stack trace:
+#0 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/composer/ClassLoader.php(444): include()
+#1 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/ardz7661/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/helpers.php(471): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(403): collect(Array)
+#5 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[08-Jun-2024 21:54:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php:40
+Stack trace:
+#0 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/composer/ClassLoader.php(444): include()
+#1 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/ardz7661/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/helpers.php(471): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(403): collect(Array)
+#5 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[08-Jun-2024 21:55:55 Asia/Kolkata] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[08-Jun-2024 21:55:55 Asia/Kolkata] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Co in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[08-Jun-2024 21:56:38 Asia/Kolkata] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[08-Jun-2024 21:56:38 Asia/Kolkata] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Co in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[08-Jun-2024 21:56:42 Asia/Kolkata] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[08-Jun-2024 21:56:42 Asia/Kolkata] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Co in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[08-Jun-2024 21:56:44 Asia/Kolkata] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[08-Jun-2024 21:56:44 Asia/Kolkata] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Co in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[08-Jun-2024 21:57:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php:40
+Stack trace:
+#0 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/composer/ClassLoader.php(444): include()
+#1 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/ardz7661/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/helpers.php(471): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(403): collect(Array)
+#5 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[08-Jun-2024 21:57:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php:40
+Stack trace:
+#0 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/composer/ClassLoader.php(444): include()
+#1 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/ardz7661/...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/helpers.php(471): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(403): collect(Array)
+#5 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[08-Jun-2024 21:58:39 Asia/Kolkata] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[08-Jun-2024 21:58:39 Asia/Kolkata] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Co in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[08-Jun-2024 21:58:47 Asia/Kolkata] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[08-Jun-2024 21:58:47 Asia/Kolkata] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Co in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[08-Jun-2024 21:58:50 Asia/Kolkata] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[08-Jun-2024 21:58:50 Asia/Kolkata] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Co in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[08-Jun-2024 21:58:52 Asia/Kolkata] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[08-Jun-2024 21:58:52 Asia/Kolkata] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Co in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[08-Jun-2024 21:58:54 Asia/Kolkata] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[08-Jun-2024 21:58:54 Asia/Kolkata] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Co in /home/ardz7661/public_html/financial.ardigitalprinting.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
